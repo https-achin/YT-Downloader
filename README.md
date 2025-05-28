@@ -16,11 +16,11 @@ This Python script allows users to download YouTube videos by selecting the desi
 ## Usage
 1. Install dependencies:
    ```powershell
-   pip install -r requirements.txt
+   pip install -r req.txt
    ```
 2. Run the script:
    ```powershell
-   python youtube_downloader.py
+   python main.py
    ```
 3. Follow the on-screen prompts to download your video.
 
