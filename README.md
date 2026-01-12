@@ -29,8 +29,9 @@ This Python script allows users to download YouTube videos by selecting the desi
 - The script uses `pytube` for downloading YouTube videos.
 
 ## License & Copyright
-- © 2025 [Dev-Sachin25](https://github.com/Dev-Sachin25)
+- © 2025 [Dev-Sachin25](https://github.com/https-achin)
 - This project is free to use and open source.
 - *This project is for educational purposes only. Please respect YouTube's Terms of Service.*
 
 ---
+
